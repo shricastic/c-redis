@@ -1,7 +1,7 @@
 
 # C Redis
 
-C Redis is a simplified, Redis-inspired in-memory key-value store written in C for educational purposes.
+C Redis is a simplified, Redis-inspired in-memory key-value store written in C for fun.
 
 ## Features
 - In-memory key-value store using a hash table
