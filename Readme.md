@@ -11,9 +11,13 @@ C Redis is a simplified, Redis-inspired in-memory key-value store written in C f
 
 
 ## Build & Run
-```sh
-make              # Build the project (executable in build/c-redis)
-./build/c-redis   # Run the database
+```
+sh make              # Build the project (executable in build/c-redis)
+ ```
+``` 
+./build/c-redis       # Run the database
+```   
+
 
 ## Commands
 - SET key value — Store a key-value pair.
